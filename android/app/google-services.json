@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695646079751",
+    "project_id": "wafflebank-b80a2",
+    "storage_bucket": "wafflebank-b80a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695646079751:android:27f523cfcc5134640253a2",
+        "android_client_info": {
+          "package_name": "com.mycompany.wafflebank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiwCLYsXj0FCrym26xtCY4Q2TgcuMacDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
